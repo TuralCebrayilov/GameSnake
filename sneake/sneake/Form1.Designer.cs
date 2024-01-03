@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             game = new PictureBox();
+            label1 = new Label();
             ((System.ComponentModel.ISupportInitialize)game).BeginInit();
             SuspendLayout();
             // 
@@ -40,23 +41,34 @@
             game.Size = new Size(500, 500);
             game.TabIndex = 0;
             game.TabStop = false;
-     
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(580, 20);
+            label1.Name = "label1";
+            label1.Size = new Size(61, 20);
+            label1.TabIndex = 1;
+            label1.Text = "Total:99";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(890, 567);
+            Controls.Add(label1);
             Controls.Add(game);
             Name = "Form1";
             Text = "Form1";
             KeyDown += Form1_KeyDown;
             ((System.ComponentModel.ISupportInitialize)game).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private PictureBox game;
+        private Label label1;
     }
 }

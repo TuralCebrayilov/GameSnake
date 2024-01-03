@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rkaWZgrXUWndGyexLnuAWApzE10VW6o0M8fGKGvwWE4WvBvWcUDlOP+OpkjX7IJe+4/dQIHqB/Qiv5l06yxQqw==",
+  "dgSpecHash": "r9ewqJlKuFPFjmyZPpYB+YOyHlWwRDRvk+k3hpfc3BwcdsoJZQ2ClTPw/hM3r7Q54ix/eWMDRTMPKzoyXPl9bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\udemy\\sneake\\sneake\\sneake.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\GameSnake\\sneake\\sneake\\sneake.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

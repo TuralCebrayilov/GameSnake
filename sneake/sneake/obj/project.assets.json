@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\udemy\\sneake\\sneake\\sneake.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\GameSnake\\sneake\\sneake\\sneake.csproj",
       "projectName": "sneake",
-      "projectPath": "C:\\Users\\HP\\Desktop\\udemy\\sneake\\sneake\\sneake.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\GameSnake\\sneake\\sneake\\sneake.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\udemy\\sneake\\sneake\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\GameSnake\\sneake\\sneake\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
